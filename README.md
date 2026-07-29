@@ -21,17 +21,7 @@ Interaktives Tableau-Dashboard zur Analyse internationaler Distributoren und Ide
 **Technologien**  
 SQL • Tableau
 
-➡ Repository
-
----
-
-### Kundensegmentierung & Verhaltensanalyse
-Kundensegmentierung mittels Clustering-Techniken basierend auf Kaufverhalten.
-
-**Technologien**  
-Python • Machine Learning • Clustering
-
-➡ Repository
+➡ [Zum Repository](https://faina-dataanalytics.github.io/portfolio/)
 
 ---
 
@@ -41,7 +31,7 @@ Statistische Analyse zur Unterstützung einer proaktiven Personalplanung anhand 
 **Technologien**  
 Statistik • Tableau
 
-➡ Repository
+➡ [Zum Repository](https://github.com/faina-dataanalytics/Personalplanung-zur-Grippesaison-Tableau-Statistik-)
 
 ---
 
@@ -51,17 +41,7 @@ Power BI Dashboard zur Identifikation operativer und zeitlicher Faktoren, die Fl
 **Technologien**  
 Power BI • DAX • Power Query
 
-➡ Repository
-
----
-
-### Mobile Onboarding & User Retention Analyse
-Product-Analytics-Projekt zur Identifikation kritischer Drop-off-Punkte im mobilen Onboarding-Prozess.
-
-**Technologien**  
-Amplitude • Product Analytics
-
-➡ Repository
+➡ [Zum Repository](https://github.com/faina-dataanalytics/Flight-Punctuality-Temporal-Pattern-Analysis-Power-BI-)
 
 ---
 
@@ -71,7 +51,7 @@ Machine-Learning-Modell zur Vorhersage risikoreicher Fahrzeugkäufe und Erkläru
 **Technologien**  
 Python • Machine Learning • Explainable AI
 
-➡ Repository
+➡ [Zum Repository](https://github.com/faina-dataanalytics/Predicting-Risky-Vehicle-Purchases)
 
 ---
 
