@@ -1,5 +1,12 @@
 # Data Science & Analytics Portfolio
 
+
+
+Anwendung von Data Analytics und Machine Learning, um Erkenntnisse zu gewinnen, Muster zu erklären und evidenzbasierte Entscheidungsfindung zu unterstützen.
+
+
+---
+
 Dieses Repository präsentiert ausgewählte Analyseprojekte aus den Bereichen **SQL**, **Python**, **Statistik**, **Machine Learning**, **Tableau**, **Power BI** und **Product Analytics**.
 
 Der Fokus liegt nicht ausschließlich auf Visualisierungen, sondern darauf, Daten in **umsetzbare geschäftliche Erkenntnisse** und **Entscheidungsunterstützung** zu transformieren.
