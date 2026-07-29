@@ -80,4 +80,4 @@ Zusätzliche Projekte aus den Bereichen SQL, Tableau, Power BI, Python, Product 
 
 Das vollständige Portfolio ist hier verfügbar:
 
-➡ Portfolio-Website
+➡ [Portfolio‑Website](https://faina-dataanalytics.github.io/portfolio/)
