@@ -74,10 +74,17 @@ Die Projekte demonstrieren Erfahrung in:
 
 Zusätzliche Projekte aus den Bereichen SQL, Tableau, Power BI, Python, Product Analytics und Statistik sind in den entsprechenden Repositories verfügbar.
 
+- [Analyse von Online‑Einkaufsmustern](https://github.com/faina-dataanalytics/Online-Einkaufsmuster-und-Kundensegmentierung-Python-)
+- [Global Happiness & Development Analyse](https://github.com/faina-dataanalytics/Global-Happiness-und-Development-Analyse-Python-und-Tableau-)	
+- [Product Analytics Dashboards](https://github.com/faina-dataanalytics/Product-Analytics-Dashboards-Tableau-)
+- [Mobile Onboarding & Retention Analyse](https://github.com/faina-dataanalytics/Mobile-Onboarding-Retention-Analyse-Amplitude-)
+- [Analyse der Videospielverkäufer](https://github.com/faina-dataanalytics/Analyse-der-Videospielverk-ufe-Excel-)
+- [Analyse von Bank­kunden­daten](https://github.com/faina-dataanalytics/pigEBank_kundenanalyse)
+
 ---
 
 ## Portfolio
 
-Das vollständige Portfolio ist hier verfügbar:
+Das Portfolio ist hier verfügbar:
 
 ➡ [Portfolio‑Website](https://faina-dataanalytics.github.io/portfolio/)
