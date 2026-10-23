@@ -56,8 +56,7 @@ Python • Machine Learning • Explainable AI
 ---
 
 ### Vorhersage der Wettbewerbsintensität bei öffentlichen Ausschreibungen
-Machine‑Learning‑Modell zur Prognose niedriger Wettbewerbsintensität in EU‑Ausschreibungen (4,36 Mio Datensätze, 33 Länder).
-Identifiziert Ausschreibungen mit hohem Risiko geringer Beteiligung anhand strukturierter Vergabedaten.
+Machine‑Learning‑Modell zur Prognose niedriger Wettbewerbsintensität in EU‑Ausschreibungen anhand strukturierter Vergabedaten.
 
 **Technologien**  
 Python • scikit‑learn • Feature Engineering • Explainable AI
