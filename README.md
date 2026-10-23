@@ -55,6 +55,17 @@ Python • Machine Learning • Explainable AI
 
 ---
 
+### Vorhersage der Wettbewerbsintensität bei öffentlichen Ausschreibungen
+Machine‑Learning‑Modell zur Prognose niedriger Wettbewerbsintensität in EU‑Ausschreibungen (4,36 Mio Datensätze, 33 Länder).
+Identifiziert Ausschreibungen mit hohem Risiko geringer Beteiligung anhand strukturierter Vergabedaten.
+
+**Technologien**  
+Python • scikit‑learn • Feature Engineering • Explainable AI
+
+➡ [Zum Repository](https://github.com/faina-dataanalytics/public-procurement-competition-model)
+
+---
+
 ## Weitere Analyseprojekte
 
 Zusätzliche Projekte aus den Bereichen SQL, Tableau, Power BI, Python, Product Analytics und Statistik sind in den entsprechenden Repositories verfügbar.
